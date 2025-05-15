@@ -3,7 +3,7 @@
 ### Name - Harini B
 
 # ExNo: 8.1 HackerRankChallenges
-### Aim: Write a python program to find the amount paid by Vimla, If 5% discount was given and 2% CST was paid.Vimla purchased a microwave oven with the price Rs. 25,000. Finalamount = amount +cst_amount - discount_amountmax_speed(),change_gear() override the same methods of base class  using method overriding
+### Aim: To Write a python program to find the amount paid by Vimla, If 5% discount was given and 2% CST was paid.Vimla purchased a microwave oven with the price Rs. 25,000. Finalamount = amount +cst_amount - discount_amountmax_speed(),change_gear() override the same methods of base class  using method overriding
 ### Algorithm:
 
 **STEP 1:** Start.
